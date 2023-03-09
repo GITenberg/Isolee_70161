@@ -1,0 +1,32 @@
+_repo: Isolee_70161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brada
+    aliases:
+    - Puliga, Henrietta de Quigini
+    - Puliga, Henriette Consuelo Sansom, contessa di
+    birthdate: 1850
+    deathdate: 1938
+    gutenberg_agent_id: '46970'
+    url: http://www.gutenberg.org/2009/agents/46970
+    wikipedia: https://fr.wikipedia.org/wiki/Brada
+description: ''
+gutenberg_issued: '2023-02-27'
+identifiers:
+  gutenberg: '70161'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=wu.89015103690
+pgterms:marc905: 20210321012351brada
+pgterms:marc906: '1904'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aFrance :$bPlon-Nourrit, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Isolée
+url: http://www.gutenberg.org/ebooks/70161
